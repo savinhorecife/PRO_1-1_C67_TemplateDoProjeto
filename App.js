@@ -11,7 +11,7 @@ export default class App extends React.Component {
   render() {
     return (
       <View>
-       <Text> savio </Text>
+       <Text> savio e selton </Text>
       </View>
     );
   }
